@@ -1,1 +1,2 @@
 # WORKSHOP
+Git and github
